@@ -126,7 +126,7 @@
 }
 
 .bg-electric {
-    background: rgb(226, 224, 45)
+    background: rgba(202, 199, 11, 0.807)
 }
 
 .bg-psychic {
@@ -235,11 +235,11 @@
 }
 
 .border-electric {
-    border-color: #787DDA;
+    border-color: rgba(202, 199, 11, 0.807)
 }
 
 .color-electric {
-    color: #787DDA;
+    color: rgba(202, 199, 11, 0.807)
 }
 
 .border-psychic {

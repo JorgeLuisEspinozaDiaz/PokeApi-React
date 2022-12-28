@@ -86,7 +86,7 @@ const PokedexInfo = () => {
                       style={{
                         width: `${(s.base_stat * 100) / 200}%`,
                       }}
-                      className={`poke__info-hp  bg-${pokemon?.types[0].type.name}`}
+                      className={`poke__info-hp   bg-${pokemon?.types[0].type.name}`}
                     >
                       <span
                         className={`poke__info-spa bg-${pokemon?.types[0].type.name}`}
